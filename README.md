@@ -6,7 +6,7 @@ Most of what I've learned so far has come from actually building things, running
 
 ### What I'm working on
 
-**AUTS — Automated University Scheduling System**
+**AUTS - Automated University Scheduling System**
 
 This is the project I've spent the most time on. My team and I are developing a platform that helps universities prepare their schedules while accounting for classrooms, instructors, courses, and other requirements.
 
@@ -16,7 +16,7 @@ It's taught me a lot about database design, APIs, testing, debugging, and dealin
 
 The source code is private while we're developing the product.
 
-**Brickly — Construction Management Platform**
+**Brickly - Construction Management Platform**
 
 Another project I'm working on through RIT Kosovo's Innoventure program. We're exploring ways to help growing construction companies assess workers and better manage their resources.
 
